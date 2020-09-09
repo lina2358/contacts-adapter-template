@@ -14,7 +14,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
  */
 
-const { getToken } = require('./lib/utils/snazzy');
+const { getToken } = require('./lib/utils/authentication');
 
 /**
  * This method will be called from OIH platform providing following data
